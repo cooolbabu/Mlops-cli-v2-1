@@ -2,7 +2,7 @@
 
 ### Connections
 
-- Create a Service Principle for GitHub account and add security info project settings
+- Create a Service Principal for GitHub account and add security info project settings
 
 ~~~
  az ad sp create-for-rbac --name "github-aml-sp" --role contributor \

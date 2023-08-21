@@ -11,3 +11,5 @@
 
 - Add **AZURE_CREDENTIALS** to project repo secrets
 
+- Check_connnectivity is workflow that checks connectivity to AML workspace
+
